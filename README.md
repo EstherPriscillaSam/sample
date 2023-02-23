@@ -32,3 +32,6 @@ I have passed 3 different credentials  from excel to check whether login works
 it worked for the right one
 
 
+//module 2---for simple login by passing the data directly--check the studentactions.class under sample project
+
+
