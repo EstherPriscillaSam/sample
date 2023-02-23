@@ -24,3 +24,11 @@ Generated test report is added here as test output in word format
 
 
 Test data is uploaded
+
+
+
+I have passed 3 different credentials  from excel to check whether login works
+
+it worked for the right one
+
+
