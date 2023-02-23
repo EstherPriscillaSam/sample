@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="basic" verbose="2" parallel="methods">
+<listeners>
+<listener class-name="testngprograms.listenerexample"></listener>
+</listeners>
+<test name="testall">
+<!--  <groups>
+<run>
+<include name="software">
+
+</include>
+</run>
+</groups>
+<parameter name="names" value="9"></parameter>
+<classes>
+<class name="testngprograms.parameterExample">
+
+</class>-->
+<classes>
+<class name="testngprograms.sampletest2">
+</class>
+
+<!--  <class name="testngprograms.sampletest">
+
+</class>
+<class name="testngprograms.sampletest2"> 
+
+</class>
+<class name="testngprograms.suiteexample">
+
+  </class>-->
+<!--  <class name="testngprograms.grouptest">
+
+
+</class>-->
+
+
+
+</classes>
+</test>
+</suite>
